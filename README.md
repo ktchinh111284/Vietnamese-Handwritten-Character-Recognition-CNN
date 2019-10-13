@@ -1,7 +1,7 @@
 # Vietnamese Handwritten Character Recognition CNN
 Vietnamese Handwritten Character Recognition CNN
 
-https://drive.google.com/open?id=1TAGpb2z7Lg9dBl9zx8eSU2VyLuQAYmQz
+Open file with Colab: https://drive.google.com/open?id=1TAGpb2z7Lg9dBl9zx8eSU2VyLuQAYmQz
 
 References
 
@@ -14,3 +14,9 @@ References
 [4]. https://github.com/AmrHendy/Arabic-Handwritten-Images-Recognition
 
 [5]. https://www.pluralsight.com/guides/getting-started-tensorflow
+
+[6]. https://github.com/TusharAmbelkar/DevanagriCharacterRecognition
+
+[7]. https://www.digitalocean.com/community/tutorials/how-to-build-a-neural-network-to-recognize-handwritten-digits-with-tensorflow
+
+[8]. https://github.com/anandhkishan/Handwritten-Character-Recognition-using-CNN
